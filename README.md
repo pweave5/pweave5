@@ -16,6 +16,8 @@ Here are some ideas to get you started:
 -->
 My name is Preston Weaver, I'm a senior at Harding Universtity studying Data Science.
 
-  - I enjoy all things data analytics related, especially if it involves sports.
+  - I enjoy all things data science related
+  - I'm a huge sports fan and love combining sports and data analytics
+    
 
 
