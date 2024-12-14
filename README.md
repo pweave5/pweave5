@@ -16,8 +16,14 @@ Here are some ideas to get you started:
 -->
 My name is Preston Weaver, I'm a senior at Harding Universtity studying Data Science.
 
-  - I enjoy all things data science related
-  - I'm a huge sports fan and love combining sports and data analytics
+Some of my skills include:
+  - Data Preperation and Exploratory Data Analysis
+  - Web Scraping
+  - Predictive Modeling
+
+Some of my interests include:
+  - All things machine learning
+  - Combining my love of Sports with Data analysis
     
 
 
