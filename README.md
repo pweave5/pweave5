@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Preston Weaver, I'm a senior at Harding Universtity studying Data Science.
+My name is Preston Weaver, I'm a senior at Harding Universtity studying Data Science. Check out some of my work:
+ - [NFL Analytics](https://github.com/pweave5/Sports-Analytics-New/README.md)
 
 ## Skills:
   - Data Preperation and Exploratory Data Analysis
