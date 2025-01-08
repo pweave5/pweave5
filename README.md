@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 My name is Preston Weaver, I'm a senior at Harding Universtity studying Data Science. Check out some of my work:
  - [NFL Analytics](https://github.com/pweave5/Sports-Analytics-New)
+ - [Internship Data Visualizations](https://github.com/pweave5/Internship-Work)
 
 ## Skills:
   - Data Preperation and Exploratory Data Analysis
