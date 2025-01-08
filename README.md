@@ -25,7 +25,7 @@ My name is Preston Weaver, I'm a senior at Harding Universtity studying Data Sci
 
 ## Interests:
   - All things machine learning
-  - Combining my love of Sports with Data analysis
+  - Combining my love of sports with data analysis
     
 
 
