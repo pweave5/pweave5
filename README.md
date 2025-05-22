@@ -18,7 +18,7 @@ My name is Preston Weaver, I'm a senior at Harding Universtity studying Data Sci
 
  - [Internship Data Visualizations](https://github.com/pweave5/Internship-Work)
  - [Machine Learning Projects](https://github.com/pweave5/Machine-Learning)
- - [Senior Capstone Project](https://github.com/pweave5/Senior-Capstone-Project)
+ - [Senior Capstone Project](https://github.com/pweave5/Senior_Capstone_Project)
  - [NFL Analytics](https://github.com/pweave5/Sports-Analytics-New)
 
 ## Skills:
