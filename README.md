@@ -1,6 +1,6 @@
 # Hi there 👋
 
-My name is Preston Weaver, and I recently graduated from Harding University with a degree in Data Science. I'm passionate about using data to uncover insights, build predictive models, and solve real-world problems—especially when it involves sports. Check out some of my work:
+My name is Preston Weaver, and I recently graduated from Harding University with a degree in Data Science. I'm passionate about using data to uncover insights, build predictive models, and solve real-world problems, especially when it involves sports. Check out some of my work:
 
  - [Internship Data Visualizations](https://github.com/pweave5/Internship-Work)
  - [Machine Learning Projects](https://github.com/pweave5/Machine-Learning)
